@@ -26,7 +26,3 @@ for line in sys.stdin:
 for s in state:
     print(s[-1], end="")
 print()
-
-
-
-
